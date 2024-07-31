@@ -12,17 +12,17 @@
 
 - 🔭 I’m currently working on **AmizhBirth&Yoga**
 
-- 🌱 I’m currently learning **Three Js, React-three-fiber**
+- 🌱 I’m currently learning **NEXT JS**
 
-- 👯 I’m looking to collaborate on **Three Js**
+- 👯 I’m looking to collaborate on **Software Development**
 
-- 👨‍💻 All of my projects are available at [https://next-portfolio-nu-nine.vercel.app/](https://next-portfolio-nu-nine.vercel.app/)
+- 👨‍💻 All of my projects are available at 
 
-- 💬 Ask me about **MERN | THREE**
+- 💬 Ask me about **MERN | PYTHON**
 
 - 📫 How to reach me **sudharsanthangavel03@gmail.com**
 
-- 📄 Know about my experiences [Portfolio](https://tinyurl.com/sudharsanresume1)
+- 📄 Know about my experiences [Resume 🚀](https://tinyurl.com/sudharsanresume1)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
