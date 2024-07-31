@@ -22,7 +22,7 @@
 
 - 📫 How to reach me **sudharsanthangavel03@gmail.com**
 
-- 📄 Know about my experiences [https://tinyurl.com/sudharsanresume1)
+- 📄 Know about my experiences [Portfolio](https://tinyurl.com/sudharsanresume1)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
