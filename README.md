@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Yogesh S A</h1>
-<h3 align="center">Full Stack Developer | International Chess Player</h3>
+<h1 align="center">Hi 👋, I'm Sudharsan T</h1>
+<h3 align="center">Software Developer</h3>
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
@@ -20,7 +20,7 @@
 
 - 💬 Ask me about **MERN | THREE**
 
-- 📫 How to reach me **yogesh.5prog@gmail.com**
+- 📫 How to reach me **sudharsanthangavel03@gmail.com**
 
 - 📄 Know about my experiences [https://tinyurl.com/yttvhjc7](https://tinyurl.com/yttvhjc7)
 
